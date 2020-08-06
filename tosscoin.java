@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class HoT2{
+public class tosscoin{
 public static void main(String[] args){
     System.out.println("Who are you?");
     Scanner scan = new Scanner(System.in);
